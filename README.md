@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Data Analyst</h3>
 <img align="right"alt="coder"width="400"src=https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmaan-ranyal&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmaan-ranyal" /> </p>
-
 <p align="left"> <a href="https://twitter.com/ayushmaan_08" target="blank"><img src="https://img.shields.io/twitter/follow/ayushmaan_08?logo=twitter&style=for-the-badge" alt="ayushmaan_08" /></a> </p>
 
 - ⚡ Fun fact **I love Dairy Products 😉**
